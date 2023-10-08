@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ListReport"],function(t){"use strict";var s={actions:{},assertions:{}};return new t({appId:"RiskManagement.Risk",componentId:"RiskList",entitySet:"Risk"},s)});
+//# sourceMappingURL=RiskList.js.map
